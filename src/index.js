@@ -1,8 +1,8 @@
-/*function eval() {
+function eval() {
   // Do not use eval!!!
   return;
 }
-*/
+
 
 function expressionCalculator(expr) {
   
